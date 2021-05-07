@@ -9,11 +9,10 @@
     Email : bughunt88@gmail.com <br>
     Dacon : https://dacon.io/myprofile/416700/home/<br>
     kaggle : https://www.kaggle.com/bughunt88 <br>
-    <br>
+   <br>
     language <br>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="JAVA" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-   
+    <img alt="Java" src="https://img.shields.io/badge/Java-%007396.svg?&style=for-the-badge&logo=r&logoColor=white"/>
     <br>ML/DL<br>
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
@@ -29,6 +28,8 @@
     <br>
     <br>
     💻 Certification <br>
+    ![image](https://user-images.githubusercontent.com/76426566/117409618-57c78180-af4c-11eb-95ed-cfaee191d630.png)<br>
+    <br>
     TensorFlow Developer Certificate <br>
     SAS BASE <br>
     MOS MASTER 2016 <br>
