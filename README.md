@@ -1,4 +1,4 @@
-### 👋 AI 개발자 김서영입니다! 👋
+### 👋 AI 개발자 김한수입니다! 👋
 <p>
   <em>
     저는 <b>new</b> Tensorflow 개발자입니다. 👨‍💻 <br>
@@ -6,15 +6,14 @@
     재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. <br>
     <br>
     개인계정 <br>
-    Email : ka005740@gmail.com <br>
-    Dacon : https://dacon.io/myprofile/416688/home/ , https://dacon.io/myprofile/419800/home/ <br>
-    kaggle : https://www.kaggle.com/kimseoyoung <br>
+    Email : bughunt88@gmail.com <br>
+    Dacon : https://dacon.io/myprofile/416700/home/<br>
+    kaggle : https://www.kaggle.com/bughunt88 <br>
     <br>
     language <br>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
-    <img alt="SAS" src="https://img.shields.io/badge/-SAS-E10098?style=for-the-badge&logo=SAS"/>
-    <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%234B275F.svg?&style=for-the-badge&logo=SPSS&logoColor=white"/>
+    <img alt="JAVA" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+   
     <br>ML/DL<br>
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
