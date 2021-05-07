@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![seoyoungs's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoungs&show_icons=true&theme=radical)
+![seoyoungs's GitHub stats](https://github-readme-stats.vercel.app/api?username=bughunt88&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunt88&layout=compact)](https://github.com/bughunt88/github-readme-stats)
