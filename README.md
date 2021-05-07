@@ -28,7 +28,6 @@
      <br>Databases<br>
      <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-    <br>
     <br>Certificate<br>
     <img alt="certificate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937810" />
    
