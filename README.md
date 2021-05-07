@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 
 ![seoyoungs's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoungs&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoungs&layout=compact)](https://github.com/seoyoungs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunt88&layout=compact)](https://github.com/bughunt88/github-readme-stats)
