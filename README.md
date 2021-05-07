@@ -31,10 +31,3 @@
     <br>Certificate<br>
     <img alt="certificate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937810" />
    
-
-![bughunt88's GitHub stats](https://github-readme-stats.vercel.app/api?username=bughunt88&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunt88&layout=compact)](https://github.com/bughunt88/github-readme-stats)
-
-
-
