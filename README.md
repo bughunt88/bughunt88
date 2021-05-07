@@ -29,11 +29,13 @@
      <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
     <br>
+    <br>Certificate<br>
+    <img alt="certificate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937810" />
    
 
 ![bughunt88's GitHub stats](https://github-readme-stats.vercel.app/api?username=bughunt88&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bughunt88&layout=compact)](https://github.com/bughunt88/github-readme-stats)
 
-<img alt="certificate" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937810" />
+
 
