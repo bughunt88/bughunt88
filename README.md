@@ -17,17 +17,13 @@
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/bughunt88)](https://www.kaggle.com/bughunt88)
 [![Dacon Badge](http://img.shields.io/badge/-Dacon-black?style=flat-square&logo=github&link=https://dacon.io/myprofile/416700/home/)](https://dacon.io/myprofile/416700/home/)
 
-
 <br>
 
 ## 📑 Certificate
 
-[![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937810)
+[![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00?logo=tensorflow&logoColor=white)](https://www.credential.net/5b55228f-e4f8-48e3-b74c-c846b1c6313c)
 
 <br>
-
-
-
 
 ## 👨🏻‍💻 Tech Stack 
 
