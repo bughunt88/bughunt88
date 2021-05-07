@@ -6,7 +6,7 @@
     재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. <br>
     <br>
     개인계정 <br>
-    Email : bughunt88@gmail.com <br>
+    Email : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bughunt88@gmail.com)](mailto:bughunt88@gmail.com)
     Dacon : https://dacon.io/myprofile/416700/home/<br>
     kaggle : https://www.kaggle.com/bughunt88 <br>
    <br>
