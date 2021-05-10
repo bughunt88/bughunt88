@@ -15,7 +15,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bughunt88@gmail.com)](mailto:bughunt88@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/bughunt88)](https://www.kaggle.com/bughunt88)
-[![Dacon Badge](http://img.shields.io/badge/-Dacon-black?style=flat-square&logo=github&link=https://dacon.io/myprofile/416700/home/)](https://dacon.io/myprofile/416700/home/)
+[![Mendeley](https://img.shields.io/badge/Dacon-151F5D?style=flat-square&logo=Mendeley&logoColor=white&link=https://dacon.io/myprofile/416700/home/)](https://dacon.io/myprofile/416700/home/)
 
 <br>
 
