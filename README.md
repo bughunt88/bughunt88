@@ -2,7 +2,7 @@
 ## 👋🏻 Hi there!!!
 
 
-- 👨🏻‍💼  Java 4th year developer & studying AI development
+- 👨🏻‍💼  AI & Java developer
 - 💻  usually using Python&Java language for programming
 <br>
 
